@@ -2,6 +2,7 @@
 
 This is a perfect web app to get the live rates of crypto-currencies and stocks and blog, calculator, educationsal sites for the purpoe and assistence to promote financial education. 
 
+Wireframe - https://wireframe.cc/pro/pp/f1d43d57b643489
 
 tech-stack - 
 HTML CSS SCSS  JS React tailwind
