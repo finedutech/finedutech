@@ -2,6 +2,13 @@
 
 This is a perfect web app to get the live rates of crypto-currencies and stocks and blog, calculator, educationsal sites for the purpoe and assistence to promote financial education. 
 
+
+tech-stack - 
+HTML CSS SCSS  JS React tailwind
+rest APi
+mongo db
+nodejs express
+
 features - 
 1. Blog/ news and discussion page. (seperate page and also present as in wireframe)
 2. gfg kind of financial ed tech page explaining all the available options for investments. Taxation and calculators.(seperate page and also present as in wireframe)
@@ -12,17 +19,15 @@ features -
 
 Pages in this web app-
 
-1. index (as in wireframe) (front-end designed by  darshan, abhay, yash and navneet)(backend with trinesh)
-2. calculators page (fd rd interest etc...)(designed by yash review by navneet)
-3. blogs/news page  (comment section without need to login, blogs and other related articles page)(designed by abhay backend with trinesh front-end review by navneet)
-4. information page  (inspiration from gfg website, we provide info on investment options available, income tax savings, 80c/80d rules)(darshan front-end review by navneet).
+1. index (as in wireframe) 
+2. calculators page (fd rd interest etc...)
+3. blogs/news page  (comment section without need to login, blogs and other related articles page)
+4. information page  (inspiration from gfg website, we provide info on investment options available, income tax savings, 80c/80d rules)
 5. in future portfolio management page.(upon completion of all these)
 
+Note to contributors -
+Please read the instructions above carefully, no additional page required. 
+don't copy paste blog and other contents from elsewhere, try to have it own. 
+Prediction model development is subjected to the rules and regulations of the governament and relevant authorities. 
 
 
-tech-stack - 
-
-HTML CSS SCSS  JS React tailwind
-rest APi
-mongo db
-nodejs express
